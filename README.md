@@ -1,1 +1,32 @@
 # web1-7
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" type="text/css" href="css/default.css">
+   <title>練習</title>
+ </head>
+ <body>
+   <section id="logo">
+     <ul>
+       <li><img src="img/good.png" alt="logo image"></li>
+       <li>LEGO</li>
+     </ul>
+   </section>
+   <nav id="gnav">
+     <ul>
+       <li><a href="#"><div class="img" id="home">ほめ</a></li>
+       <li><a href="#"><div class="img" id="konnitiha">こん＾＾</a></li>
+       <li><a href="#"><div class="img" id="konnitiwa">こん＾＾；</a></li>
+       <li><a href="#"><div class="img" id="hunjin">粉塵はやくして</a></li>
+       <li><a href="#"><div class="img" id="fq">お問い合わせ</a></li>
+     </ul>
+    </nav>
+   <hl>テスト</hl>
+   <ul class="breadcrumbs">
+   <li>愛上夫</li>
+   <li>垣九毛子</li>
+   <li>左氏素背祖</li>
+   </ul>
+ </body>
+ </html>
