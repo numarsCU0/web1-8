@@ -15,11 +15,11 @@
    </section>
    <nav id="gnav">
      <ul>
-       <li><a href="#"><div class="img" id="home">ほめ</a></li>
-       <li><a href="#"><div class="img" id="konnitiha">こん＾＾</a></li>
-       <li><a href="#"><div class="img" id="konnitiwa">こん＾＾；</a></li>
-       <li><a href="#"><div class="img" id="hunjin">粉塵はやくして</a></li>
-       <li><a href="#"><div class="img" id="fq">お問い合わせ</a></li>
+       <li><a href="#"><div class="img" id="CU0.bmp">ほめ</a></li>
+       <li><a href="#"><div class="img" id="CU0.bmp">こん＾＾</a></li>
+       <li><a href="#"><div class="img" id="CU0.bmp">こん＾＾；</a></li>
+       <li><a href="#"><div class="img" id="CU0.bmp">粉塵はやくして</a></li>
+       <li><a href="#"><div class="img" id="CU0.bmp">お問い合わせ</a></li>
      </ul>
     </nav>
    <hl>テスト</hl>
