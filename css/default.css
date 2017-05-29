@@ -24,6 +24,14 @@ body{
   width: 100px;
 }
 
+#gnav div.img {
+  display: table-cell;
+  vertical-align: middle;
+  background: url(../img/csssprite.png) no-repeat;
+  width: 55px;
+  height: 46px;
+}
+
 #gnav a {
   display: block;
   padding:10px 0;
