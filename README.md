@@ -9,7 +9,7 @@
  <body>
    <section id="logo">
      <ul>
-       <li><img src="img/good.png" alt="master/CU2.bmp"></li>
+       <li><img src="img/good.png" alt="web1-7/CU2.bmp"></li>
        <li>LEGO</li>
      </ul>
    </section>
